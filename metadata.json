@@ -1,0 +1,7 @@
+{
+  "name": "MirrorFit",
+  "description": "A deep Gemini 3 integrated virtual fashion try-on platform featuring AI stylist, wardrobe management, and photorealistic virtual try-on.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
